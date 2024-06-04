@@ -1,1 +1,1 @@
-JREADME in git directory
+README in git directory
